@@ -7,4 +7,4 @@
 
 #shimily3/ed2k-cloud
 
---platform=linux/arm64 cloudnas/clouddrive
+--platform=linux/arm64 cloudnas/clouddrive2
