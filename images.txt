@@ -5,6 +5,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+#shimily3/ed2k-cloud
 
-shimily3/ed2k-cloud
-
+--platform=linux/arm64 cloudnas/clouddrive
