@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-docker pull shimily3/ed2k-cloud:latest
+shimily3/ed2k-cloud:latest
 
 
 #--platform=linux/arm64 cloudnas/clouddrive2
