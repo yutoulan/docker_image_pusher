@@ -6,7 +6,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-linuxserver/qbittorrent:5.0.2
+linuxserver/qbittorrent:arm64v8-5.0.2
+
 
 
 #--platform=linux/arm64 cloudnas/clouddrive2
