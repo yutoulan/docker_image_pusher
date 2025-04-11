@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-shimily3/ed2k-cloud:latest
+linuxserver/qbittorrent:5.0.2
 
 
 #--platform=linux/arm64 cloudnas/clouddrive2
