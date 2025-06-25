@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-uwang/115-strm:latest
+itefuir/alist-strm:latest
 
 
 
