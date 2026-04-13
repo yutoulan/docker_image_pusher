@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #ghcr.io/panoptes88/n_m3u8dl-re-web-ui:latest
-majosissi/easytier:2.5.0
+majosissi/easytier:2.6.0
 
 
 
