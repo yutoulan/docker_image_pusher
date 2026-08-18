@@ -7,8 +7,9 @@
 
 #ghcr.io/panoptes88/n_m3u8dl-re-web-ui:latest
 #majosissi/easytier:2.6.0
-milvus-minio:latest
+#milvus-minio:latest
 
+mzz2017/v2raya:v2.2.7
 
 
 #--platform=linux/arm64 cloudnas/clouddrive2
